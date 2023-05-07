@@ -75,6 +75,12 @@ $ npx expo start
  
  ![preview-mobile](https://github.com/vivianemartini/nlw-setup/blob/main/preview-setup-mobile.PNG)
  
+ ## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Acknowledgments
+- Thanks Rocketseat
+
 
 
  
